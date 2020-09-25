@@ -21,10 +21,6 @@ li {
     display: inline;
     padding: 0px 10px 0px 50px;
 }
-.Github {
-    position: absolute;
-    z-index: 100;
-}
 a {
     color: white;
 }
